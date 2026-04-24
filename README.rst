@@ -1,4 +1,4 @@
-django-payments
+django-payments -- test
 ===============
 
 .. image:: https://jazzband.co/static/img/badge.svg
